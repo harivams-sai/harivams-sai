@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @harivams-sai
 - 👀 I’m interested in coding and beginning with development.
 - 🌱 I’m currently learning GCP computing and paving way to open source.
-- 💞️ I’m looking to collaborate on open source projects and join community and contribute.
-- 📫 How to reach me ->drop an email to itsmeharivams@gmail.com
+- 💞 I’m looking to collaborate on open source projects and join community and contribute.
+- 📫 Always open to go open-source..
 
 <!---
 harivams-sai/harivams-sai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
