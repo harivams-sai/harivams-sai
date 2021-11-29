@@ -1,4 +1,4 @@
-![](https://github.com/harivams-sai/harivams-sai/blob/main/Cover-page/Profile_Description.png)
+![](https://github.com/harivams-sai/harivams-sai/blob/main/Cover-page/Profile_Description_1.png)
 
 <!---
 harivams-sai/harivams-sai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
