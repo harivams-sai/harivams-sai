@@ -1,1 +1,0 @@
-> Cover photo for profile
