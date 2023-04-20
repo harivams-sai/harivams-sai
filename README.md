@@ -1,7 +1,7 @@
 <img align="right" src ="https://github.com/harivams-sai/harivams-sai/blob/main/homepage/aero-blend.gif" width="300px">
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">, I'm Harivams Sai
-<!-- if above doesn't work <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Harivams Sai
+<!-- if above doesn't work <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px">
 -->
 
 
