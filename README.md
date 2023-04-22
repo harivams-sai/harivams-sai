@@ -8,7 +8,8 @@
 
 [![GitHub: Harivams Sai](https://img.shields.io/badge/-Harivams%20Sai-grey?style=flat&logo=github&link=https://github.com/harivams-sai)](https://github.com/harivams-sai)
 [![Linkedin: Harivams Sai](https://img.shields.io/badge/-Harivams%20Sai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harivams09/)](https://www.linkedin.com/in/harivams09/)
-[![Leetcode: Harivams Sai](https://img.shields.io/badge/-Harivams%20Sai-grey?style=flat-square&logo=Leetcode&logoColor=yellow&link=https://leetcode.com/harivams09/)](https://leetcode.com/harivams09/)
+[![Leetcode: Harivams Sai](https://img.shields.io/badge/-Harivams%20Sai-grey?style=flat-square&logo=Leetcode&logoColor=yellow&link=https://leetcode.com/harivams09/)](https://leetcode.com/harivams09/) 
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=harivams-sai) -->
 
 I am into software development, like learning and building in tech 
 <br/> and soon hit a conversation with new people!
