@@ -14,7 +14,7 @@
 I am into software development, like learning and building in tech 
 <br/> and soon hit a conversation with new people!
 
-[![Harivams Sai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harivams-sai&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/harivams-sai/github-readme-stats)
+<!-- [![Harivams Sai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harivams-sai&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/harivams-sai/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harivams-sai&layout=compact&theme=calm)](https://github.com/harivams-sai/github-readme-stats)
 
 <!---
